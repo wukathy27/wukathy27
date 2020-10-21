@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I am a current Binghamton University student, taking a coding class.
 <!--
 **wukathy27/wukathy27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
